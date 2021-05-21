@@ -1,2 +1,2 @@
-# uidev-useFetch-refactor-demo
+# uidev-useFetch-demo
 Created with CodeSandbox
